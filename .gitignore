@@ -1,0 +1,19 @@
+# Environments
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Data and Models
+data/
+*.pt
+*.pth
+mlruns/
+
+# IDEs
+.idea/
+.vscode/
